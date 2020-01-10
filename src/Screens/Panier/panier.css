@@ -1,0 +1,42 @@
+.af-line {
+    border-top: 1px black solid;
+    height: 1px;
+    width: 250px;
+}
+
+.af-border-black {
+    border: 1px black solid;
+}
+
+.af-bold {
+    font-weight: bold;
+}
+
+.af-fruit {
+    background: url(../../Assets/Img/test.JPG) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+}
+
+.af-psize24 {
+    font-size: 24px;
+}
+
+.af-psize18 {
+    font-size: 18px;
+}
+
+.af-psize28 {
+    font-size: 28px;
+}
+
+.af-color-green {
+    color: #65935E;
+}
+
+.af-separateur {
+    border-top: 1px black solid;
+    width: 230px;
+    height: 1px;
+}
